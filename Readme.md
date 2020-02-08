@@ -1,6 +1,11 @@
 # Project Milou Safety Board
 This repo contains Project Milou's safety board design. The goal of this design is to have a standardized modular designed board that allow other competitor to improve their safety system.
 
+[![GitHub version](https://badge.fury.io/gh/CWRU-AutonomousVehiclesLab%2FProject-Milou-Safety-Board.svg)](https://badge.fury.io/gh/CWRU-AutonomousVehiclesLab%2FProject-Milou-Safety-Board)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3659446.svg)](https://doi.org/10.5281/zenodo.3659446)
+[![MIT license](https://img.shields.io/badge/License-MIT-blue.svg)](https://lbesson.mit-license.org/)
+
+
 ## What is Project Milou?
 Project Milou is Case Western Reserve University's second autonomous snowplow robot. The robot actively participate in the ION Autonomous Snowplow Challenge. Currently the latest revision of the robot is utilizing a Teensy 3.6, an ITX computer with a core i5 as its main control system.
 
